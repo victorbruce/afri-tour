@@ -1,0 +1,22 @@
+{
+  "name": "afri-tour",
+  "version": "1.0.0",
+  "description": "A lading page website for a fictional tour agency in Africa",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorbruce/afri-tour.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorbruce/afri-tour/issues"
+  },
+  "homepage": "https://github.com/victorbruce/afri-tour#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
